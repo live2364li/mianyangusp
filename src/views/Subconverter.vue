@@ -323,12 +323,12 @@ export default {
           "sub作者&lhie1提供": "https://api.dler.io/sub?",
         },
         backendOptions: [
-          { value: "https://api.v1.mk/sub?" },
-          { value: "https://v.id9.cc/sub?" },
-          { value: "https://www.nameless13.com/sub?" },
-          { value: "https://sub.xeton.dev/sub?" },
-          { value: "https://api.wcc.best/sub?" },
-          { value: "https://api.dler.io/sub?" },
+          { value: "https://late-dream-af37.l4535svip.workers.dev/sub?" },
+          { value: "https://late-dream-af37.l4535svip.workers.dev/sub?" },
+          { value: "https://late-dream-af37.l4535svip.workers.dev/sub?" },
+          { value: "https://late-dream-af37.l4535svip.workers.dev/sub?" },
+          { value: "https://late-dream-af37.l4535svip.workers.dev/sub?" },
+          { value: "https://late-dream-af37.l4535svip.workers.dev/sub?" },
         ],
         remoteConfig: [
           {
